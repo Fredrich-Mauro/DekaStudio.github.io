@@ -93,5 +93,4 @@ Podemos actualizar nuestra Política de Privacidad periódicamente si se incorpo
 Para cualquier consulta o inquietud técnica respecto a esta Política de Privacidad o la seguridad de Dekachat:
 
 - **Desarrollador Responsable:** DekaStudio  
-- **Aplicación:** Dekachat para Android (`com.dekastudio.dekachat.jicwsi`)  
-- **Correo Electrónico:** fredrichmauro@gmail.com  
+- **Aplicación:** Dekachat para Android (`com.dekastudio.dekachat.jicwsi`)
