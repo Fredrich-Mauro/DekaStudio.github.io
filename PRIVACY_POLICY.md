@@ -3,7 +3,6 @@
 **Última actualización:** Octubre de 2026  
 **Desarrollador:** DekaStudio  
 **Aplicación:** Dekachat (`com.dekastudio.dekachat.jicwsi`)  
-**Contacto:** fredrichmauro@gmail.com
 
 ---
 
